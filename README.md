@@ -1,5 +1,5 @@
-#Rotating Image Gallery
-A 3D Rotating Image Gallery built using HTML, CSS, and JavaScript. This project creates an interactive image carousel with a smooth 3D rotation effect, allowing users to browse through images using simple navigation controls.
+Rotating Image Gallery
+A 3D Rotating Image Gallery built using HTML, CSS, and JavaScript. This interactive gallery allows users to rotate through a set of images in a smooth 3D carousel effect, creating an engaging and visually appealing experience.
 
 📌 Features
 3D Rotating Carousel – Images arranged in a circular layout that rotates smoothly.
